@@ -6,6 +6,6 @@ A partir d'un texte, l'outil utilise la suite SpaCy pour la reconnaissance d'ent
 Les lieux sont alors géolocalisés à l'aide de la base Geonames, puis cartographiés avec le sentiment associé, à l'aide de la librairie Folium.
 
 ### Présentation [ici](https://docs.google.com/presentation/d/e/2PACX-1vQ5aoQBDFlTA8NEMKifMyFl8aDnST7k8zlwyAPjznLi_HTeOiCHhlWVgHYMqAltvGV0ZCTHwIJlbhZQ/pub?start=false&loop=false&delayms=3000)
-### Lien vers le notebook: https://github.com/obtic-sorbonne/Tanagra2/tree/main
+### Lien vers le notebook [ici](https://colab.research.google.com/drive/1PIl94Meb6P16IRWMMsAXWrsfy-9vvaFI?usp=sharing)
 
 Ancienne version web : https://github.com/obtic-sorbonne/Tanagra/tree/main
